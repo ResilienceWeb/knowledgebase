@@ -1,5 +1,30 @@
 # 🆕 What's new
 
+### February 2026
+
+* CSV data import: web owners can now bulk-import listings from a CSV file, with support for mapping columns to categories.
+* Switched from vis-network to react-force-graph-2d for the network visualisation, improving performance and interactivity.
+* Creating listings now send a notification email to the listing contact when a new listing is created.
+
+### January 2026
+
+* New listings are now highlighted on the web page and displayed first.
+* Implemented marker clustering in the map view for webs with many listings.
+* Added Google Maps directions link to listing location.
+* Homepage is now fully statically generated for improved performance.
+* Improved mobile experience for listing dialogs.
+* OpenTelemetry logging integration for PostHog analytics.
+* Switched image storage from DigitalOcean Spaces to Supabase Storage.
+* Upgraded to Next.js 16 and Node 24.
+* Upgraded to Prisma 7.
+
+### December 2025
+
+* Soft delete for webs: deleting a web now archives it instead of permanently removing it, allowing recovery if needed.
+* Public pages are now automatically updated when categories or tags are updated.
+* Enabled Sentry User Feedback integration, making it easier for users to report issues.
+* Improved form validation: social media and action fields now have consistent validation across the main listing form and the edit/propose form.
+
 ### November 2025
 
 * Replaced signin via Magic Link with signin via Email One-Time Passcode.
