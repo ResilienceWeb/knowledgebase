@@ -1,0 +1,20 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  guides/use-the-resilience-web: guides/contributing-to-a-web/README.md
+  guides/use-the-resilience-web/proposing-a-listing: guides/contributing-to-a-web/proposing-a-listing.md
+  guides/use-the-resilience-web/suggesting-changes-to-a-listing: guides/contributing-to-a-web/suggesting-changes-to-a-listing.md
+  guides/use-the-resilience-web/embedding-resilience-web-on-other-websites: guides/contributing-to-a-web/embedding-resilience-web-on-other-websites.md
+  guides/use-the-resilience-web/linking-to-other-webs: guides/managing-your-web/add-and-update-neighbouring-webs.md
+  guides/technical-howtos: guides/managing-your-web/README.md
+  guides/technical-howtos/create-a-web: guides/managing-your-web/create-a-web.md
+  guides/technical-howtos/update-the-banner-image: guides/managing-your-web/update-the-banner-image.md
+  guides/technical-howtos/create-and-edit-categories: guides/managing-your-web/create-and-edit-categories.md
+  guides/technical-howtos/add-and-update-neighbouring-webs: guides/managing-your-web/add-and-update-neighbouring-webs.md
+  guides/technical-howtos/add-listings: guides/managing-your-web/add-listings.md
+  guides/technical-howtos/go-live: guides/managing-your-web/go-live.md
+  guides/technical-howtos/more-support: guides/managing-your-web/more-support.md

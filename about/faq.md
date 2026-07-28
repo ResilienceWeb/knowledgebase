@@ -6,13 +6,13 @@ description: Frequently asked questions
 
 ### What stage is the project in?
 
-We currently have more than 10 webs throughout England, and we feel that the Resilience Web is still in its early days. We are actively developing more features and  we would love your input and feedback to help improve the platform.&#x20;
+We currently have more than 15 webs across England and Wales, and we feel that the Resilience Web is still in its early days. We are actively developing more features and we would love your input and feedback to help improve the platform.
 
 ### How do you fund your work?
 
-We have an [Open Collective](https://opencollective.com/resilience-web) where we receive very small donations that just about manage to pay for the hosting costs.  For our first 4 years, we’ve been building the platform for free.
+We have an [Open Collective](https://opencollective.com/resilience-web) where we receive very small donations that just about manage to pay for the hosting costs. For our first 4 years, we’ve been building the platform for free.
 
-In the spring of 2025, we signed a contract with the [Cambridge Room](https://cambridgeroom.org) to develop webs throughout Cambridgeshire and Peterborough.&#x20;
+In the spring of 2025, we signed a contract with the [Cambridge Room](https://cambridgeroom.org) to develop webs throughout Cambridgeshire and Peterborough.
 
 ### Is Resilience Web incorporated?
 
